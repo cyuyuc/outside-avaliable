@@ -2,6 +2,7 @@ radio.onReceivedValue(function (name, value) {
     available = value
 })
 let available = 0
+basic.clearScreen()
 radio.setGroup(11)
 radio.setTransmitPower(7)
 basic.forever(function () {
