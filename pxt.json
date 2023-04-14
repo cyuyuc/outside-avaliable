@@ -1,5 +1,5 @@
 {
-    "name": "outside toilet(plan2)",
+    "name": "顯示是否可用",
     "description": "",
     "dependencies": {
         "core": "*",
