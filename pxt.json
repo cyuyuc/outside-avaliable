@@ -1,5 +1,5 @@
 {
-    "name": "顯示是否可用",
+    "name": " 外面顯示是否可用",
     "description": "",
     "dependencies": {
         "core": "*",
